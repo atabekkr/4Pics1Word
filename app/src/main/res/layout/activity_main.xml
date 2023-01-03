@@ -27,7 +27,6 @@
                 android:layout_weight="1"
                 android:src="@drawable/photo1_1"
                 android:layout_marginEnd="4dp"
-                android:background="@drawable/shape_test"
                 tools:ignore="NestedWeights" />
 
             <ImageView
