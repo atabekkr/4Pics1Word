@@ -3,6 +3,11 @@ package com.example.fourpicsoneword.data
 import com.example.fourpicsoneword.R
 
 object Constants {
+
+    const val PREFS = "fourPicsOneWordPrefs"
+    const val LEVEL = "currentLevel"
+    const val CYCLE = "levelCycle"
+
     fun getQuestion(): List<Question> {
         return listOf(
             Question(
