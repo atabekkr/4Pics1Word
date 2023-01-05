@@ -7,6 +7,7 @@ object Constants {
     const val PREFS = "fourPicsOneWordPrefs"
     const val LEVEL = "currentLevel"
     const val CYCLE = "levelCycle"
+    const val CURRENT = "currentQuestionId"
 
     fun getQuestion(): List<Question> {
         return listOf(

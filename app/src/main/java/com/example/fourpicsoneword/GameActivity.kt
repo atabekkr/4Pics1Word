@@ -195,7 +195,6 @@ class GameActivity : AppCompatActivity() {
                     }
                 }
             }
-
         }
     }
 
